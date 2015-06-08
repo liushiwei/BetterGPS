@@ -3,5 +3,9 @@
 
     <string name="app_name">BetterGps</string>
     <string name="hello_world">Hello world!</string>
+    <string name="you_must_enable_allow_mock_locations_to_use_this_app_">You must enable \'Allow mock locations\' to use this app.</string>
+    <string name="enable_now">Enable now</string>
+    <string name="quit">Quit</string>
+    <string name="mockgpspath_running_">MockGPSPath Running...</string>
 
 </resources>
